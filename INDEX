@@ -1,0 +1,59 @@
+mvbutils-package                    How to use the mvbutils package
+cd                                  Organizing R workspaces
+cdfind                              Hierarchy-crawling functions for cd-organized workspaces
+cdprompt                            Support routine for cd-organized workspace hierarchy.
+changed.funs                        Show functions and callees in environment 'egood' that have changed or
+                                    disappeared in environment 'ebad'.
+check.patch.versions                Check consistency of maintained package versions
+ditto.list                          Shorthand filler-inner for lists
+do.in.envir                         Modify a function's scope
+do.on                               Easier sapply/lapply avoiding explicit function
+doc2Rd                              Converts plain-text documentation to Rd format
+dochelp                             Documentation (informal help)
+dont.lock.me                        Prevent sealing of a namespace, to facilitate package maintenance.
+dont.lockBindings                   Helper for live-editing of packages
+extract.named                       Create variables from corresponding named list elements
+fast.read.fwf                       Read in fixed-width files quickly
+find.documented                     Support for flat-format documentation
+fix.order                           Shows functions sorted by date of edit
+fixr                                Editing functions, text objects, and scriptlets
+flatdoc                             Flat-format documentation
+foodweb                             Shows which functions call what
+generic.dll.loader                  Convenient automated loading of DLLs
+get.backup                          Text backups of function source code
+hack                                Modify standard R functions, including tweaking their default arguments
+help                                The R help system
+help2flatdoc                        Convert help files to flatdoc format.
+install.pkg                         Package building, distributing, and checking
+library.dynam.reg                   Auto-registration and loading of dynamic library
+local.on.exit                       Macro-like functions
+local.return                        Macro-like functions
+lsize                               Report objects and their memory sizes
+maintain.packages                   Set up task package for live editing
+make.NAMESPACE                      Auto-create a NAMESPACE file
+max_pkg_ver                         Max package version
+mcut                                Put reals and integers into specified bins, returning factors.
+mlazy                               Cacheing objects for lazy-load access
+mlocal                              Macro-like functions
+move                                Organizing R workspaces
+multirep                            Replacement and insertion functions with more/less than 1 replacement
+                                    per spot
+mvb.sys.parent                      Functions to Access the Function Call Stack
+mvbutils.operators                  Utility operators
+mvbutils.packaging.tools            How to create & maintain packages with mvbutils
+mvbutils.utils                      Miscellaneous utilities
+my.index                            Arbitrary-level retrieval from and modification of recursive objects
+pre.install                         Update a source and/or installed package from a task package
+print                               Print values
+rbdf                                Data frames: better behaviour with zero-length cases
+readLines.mvb                       Read text lines from a connection
+rm.pkg                              Remove object(s) from maintained package
+Save                                Save R objects
+search.for.regexpr                  Find functions/objects/flatdoc-documentation containing a regexp.
+set.finalizer                       Automatic finalization for persistent objects created in C.
+setup.mcache                        Cacheing objects for lazy-load access
+source.mvb                          Read R code and data from a file or connection
+strip.missing                       Exclude "missing" objects
+task.home                           Organizing R workspaces
+unpackage                           Convert existing source package into task package
+warn.and.subset                     Extract subset and warn about omitted cases
